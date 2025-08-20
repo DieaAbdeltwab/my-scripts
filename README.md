@@ -9,7 +9,7 @@ Simple scripts that automate boring stuff and save time. Each script solves a sp
 ## Usage
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/DieaAbdeltwab/my-scripts
 cd my-scripts
 # Run any script you need
 ```
@@ -18,7 +18,8 @@ cd my-scripts
 
 | Script | Description |
 |--------|-------------|
-| 📝 *Add your scripts here* | *Description* |
+| 🐳 Docker Images Backup | Backup and restore Docker images efficiently |
+| 🖼️ Image Folder Converter | Convert images in folders to different formats |
 
 ---
 
