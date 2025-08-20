@@ -5,7 +5,8 @@
 ## ⚡ Quick Start
 
 ```bash
-python folder_icon_converter.py
+python image_folder_converter.py
+
 ```
 
 Drop your images in a folder, run the script, and watch the magic happen! ✨
