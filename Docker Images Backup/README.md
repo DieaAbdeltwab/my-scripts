@@ -13,12 +13,12 @@ Perfect for backing up your Docker images or moving them between systems!
 
 1. Make the script executable:
 ```bash
-chmod +x docker-manager.sh
+chmod +x docker_Images_backup.sh
 ```
 
 2. Run it:
 ```bash
-./docker-manager.sh
+./docker_Images_backup.sh
 ```
 
 3. Choose your option (1 or 2) and watch the magic happen! ✨
